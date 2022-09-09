@@ -7,3 +7,6 @@ B = np.uniform(-.5, .5, size=(4,5))
 
 print(np.dot(A, B.T))
 print(np.arange(10, 100))
+
+for i in range(10):
+  print(i)
